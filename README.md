@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm M. Sheraz
 
-<!--
-**sheraz-x08/sheraz-x08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Artificial Intelligence Student at Iqra National University
+I am an AI/ML student focused on Python programming, Machine Learning, and Neural Networks.
 
-Here are some ideas to get you started:
+Tech Stack and Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python
+
+Core Concepts: Python Fundamentals, Data Structures, OOPs, Neural Networks
+
+Tools: Git, GitHub, VS Code
+
+Current Focus:
+
+Mastering Python end-to-end (Fundamentals, OOPs, and Libraries).
+
+Building structured terminal applications and Machine Learning projects.
+
+Connect With Me:
+
+LinkedIn: sheraz-x08
